@@ -20,3 +20,5 @@ pyChatGPT
 vosk
 sounddevice
 pydub
+openai
+
